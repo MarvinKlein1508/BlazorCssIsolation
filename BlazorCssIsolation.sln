@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30524.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorCssIsolation", "BlazorCssIsolation\BlazorCssIsolation.csproj", "{8025A297-7783-4DFB-BAD2-F709AC0230C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorCssIsolationNewNet5", "BlazorCssIsolationNewNet5\BlazorCssIsolationNewNet5.csproj", "{AEA19F6A-124E-4798-9C71-B99E75FEB47E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8025A297-7783-4DFB-BAD2-F709AC0230C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8025A297-7783-4DFB-BAD2-F709AC0230C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8025A297-7783-4DFB-BAD2-F709AC0230C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8025A297-7783-4DFB-BAD2-F709AC0230C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA19F6A-124E-4798-9C71-B99E75FEB47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA19F6A-124E-4798-9C71-B99E75FEB47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA19F6A-124E-4798-9C71-B99E75FEB47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA19F6A-124E-4798-9C71-B99E75FEB47E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3774D0A6-AC16-4A5A-811A-C459B896C297}
+	EndGlobalSection
+EndGlobal
